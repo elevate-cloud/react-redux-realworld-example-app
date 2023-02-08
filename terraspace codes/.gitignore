@@ -3,6 +3,7 @@
 terraform.tfstate
 terraform.tfvars
 *.tfstate*
+*.tfvars
 
 .terraspace-cache
 *.plan
